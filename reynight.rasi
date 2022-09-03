@@ -8,7 +8,6 @@
  *
  */
 
-/*
 * {
   black:      #000000;
   red:        #eb6e67;
@@ -17,6 +16,7 @@
   blue:       #6eaafb;
   mangenta:   #d886f3;
   cyan:       #6cdcf7;
+  purple:     #ad66a9;
   emphasis:   #50536b;
   text:       #dfdfdf;
   text-alt:   #b2b2b2;
@@ -26,10 +26,9 @@
   spacing: 0;
   background-color: transparent;
 
-  font: "Knack Nerd Font 14";
+  font: "Cascadia_Code_PL 14";
   text-color: @text;
 }
-*/
 
 * {
  color0: #1D202F;
